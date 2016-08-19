@@ -1,0 +1,1 @@
+{'Swaroop': 'swaroop@swaroopch.com', 'Larry': 'larry@wall.org', 'dsf': 'sdgdf@', 'Vlad': 'velyk95@gmail.com', 'Spammer': 'spammer@hotmail.com'}
